@@ -1,2 +1,2 @@
-# MongoDB-project
-MongoDB project with my teammate @Neelesh7544
+# Book Suggestor
+ML and ReactJS project with my teammate @Neelesh7544
